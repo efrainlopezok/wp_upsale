@@ -1,0 +1,6 @@
+[10-Jan-2019 09:25:58 America/Denver] PHP Fatal error:  Call to undefined function do_action() in /home1/upsalegr/public_html/wp-content/themes/genesis/header.php on line 19
+[10-Jan-2019 09:25:58 America/Denver] PHP Fatal error:  Call to undefined function remove_action() in /home1/upsalegr/public_html/wp-content/themes/genesis/404.php on line 15
+[10-Jan-2019 09:25:58 America/Denver] PHP Fatal error:  Call to undefined function genesis() in /home1/upsalegr/public_html/wp-content/themes/genesis/index.php on line 15
+[10-Jan-2019 09:25:59 America/Denver] PHP Fatal error:  Call to undefined function do_action() in /home1/upsalegr/public_html/wp-content/themes/genesis/header.php on line 19
+[10-Jan-2019 09:25:59 America/Denver] PHP Fatal error:  Call to undefined function remove_action() in /home1/upsalegr/public_html/wp-content/themes/genesis/404.php on line 15
+[10-Jan-2019 09:25:59 America/Denver] PHP Fatal error:  Call to undefined function genesis() in /home1/upsalegr/public_html/wp-content/themes/genesis/index.php on line 15
